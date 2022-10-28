@@ -65,12 +65,6 @@ finally
 
 Write-Host "Contenu des erreurs : $Error"
 
-    #Partage dossier
-    $share = "\\SERVADAXEPLANE\Partage perso utilisateurs\$Username"
-    # Home de l'utilisateur dans le profil AD
-
-    set-aduser $Username -HomeDrive "Z:" -HomeDirectory $share
-
     # If groups is not null... then iterate over groups (if any were specified) and add user to groups
     if ($User.'Add Groups (csv)' -ne "") {
         $User.'Add Groups (csv)'.Split(",") | ForEach {
