@@ -1,0 +1,23 @@
+First Name,Last Name,Job Title,Email Address,Organizational Unit,Add Groups (csv),Employee ID,True,Password
+Nicolas,Pivaut,Technicien informatique,n.pivaut@axeplane.loc,"OU=Informatique,OU=Services,DC=axeplane,DC=loc",Grp_Informatique,1,true,P@$$w0rd
+Anthony,Pacaut,Responsable service Informatique,a.pacaut@axeplane.loc,"OU=Informatique,OU=Services,DC=axeplane,DC=loc",Grp_Informatique,2,true,P@$$w0rd
+Aaron,Scott,Administrateur systèmes et réseaux,a.scott@axeplane.loc,"OU=Informatique,OU=Services,DC=axeplane,DC=loc",Grp_Informatique,3,true,P@$$w0rd
+Alain,Marnet,Directeur général,a.marnet@axeplane.loc,"OU=Direction,OU=Services,DC=axeplane,DC=loc",Grp_Direction,4,true,P@$$w0rd
+Annabeth,Viale,Directrice adjointe,a.viale@axeplane.loc,"OU=Direction,OU=Services,DC=axeplane,DC=loc",Grp_Direction,5,true,P@$$w0rd
+Thierry,Faure,Secrétaire de direction,t.faure@axeplane.loc,"OU=Direction,OU=Services,DC=axeplane,DC=loc",Grp_Direction,6,true,P@$$w0rd
+Donna,Rossi,RH,d.rossi@axeplane.loc,"OU=RH,OU=Services,DC=axeplane,DC=loc",Grp_RH,7,true,P@$$w0rd
+Elsa,Pasteur,Assistante RH,e.pasteur@axeplane.loc,"OU=RH,OU=Services,DC=axeplane,DC=loc",Grp_RH,8,true,P@$$w0rd
+Juan,Alvarez,Assistant RH,j.alvarez@axeplane.loc,"OU=RH,OU=Services,DC=axeplane,DC=loc",Grp_RH,9,true,P@$$w0rd
+Jack,Wilson,Responsable service finance,j.wilson@axeplane.loc,"OU=Finance,OU=Services,DC=axeplane,DC=loc",Grp_Finance,10,true,P@$$w0rd
+Chloé,Lemoine,Gestionnaire de finance,c.lemoine@axeplane.loc,"OU=Finance,OU=Services,DC=axeplane,DC=loc",Grp_Finance,11,true,P@$$w0rd
+Vick,VanMertens,poste de Finance,v.vanmertens@axeplane.loc,"OU=Finance,OU=Services,DC=axeplane,DC=loc",Grp_Finance,12,true,P@$$w0rd
+Guy,Mirabeau,Responsable service Commercial,g.mirabeau@axeplane.loc,"OU=Commercial,OU=Services,DC=axeplane,DC=loc",Grp_Commercial,13,true,P@$$w0rd
+Josephina,Alvarez,Commerciale,jo.alvarez@axeplane.loc,"OU=Commercial,OU=Services,DC=axeplane,DC=loc",Grp_Commercial,14,true,P@$$w0rd
+Halan,Bakri,Commercial,h.bakri@axeplane.loc,"OU=Commercial,OU=Services,DC=axeplane,DC=loc",Grp_Commercial,15,true,P@$$w0rd
+Alisha,Kumuri,Commerciale,a.kumuri@axeplane.loc,"OU=Commercial,OU=Services,DC=axeplane,DC=loc",Grp_Commercial,16,true,P@$$w0rd
+Moussa,Dayma,Responsable service Logistique,m.dayma@axeplane.loc,"OU=Logistique,OU=Services,DC=axeplane,DC=loc",Grp_Logistique,17,true,P@$$w0rd
+Myriam,Saltiel,Opératrice logistique,m.saltiel@axeplane.loc,"OU=Logistique,OU=Services,DC=axeplane,DC=loc",Grp_Logistique,18,true,P@$$w0rd
+Albert,DeKoch,Opérateur logistique,a.dekoch@axeplane.loc,"OU=Logistique,OU=Services,DC=axeplane,DC=loc",Grp_Logistique,19,true,P@$$w0rd
+Maddy,Zhang,Responsable service Marketing,m.zhang@axeplane.loc,"OU=Marketing,OU=Services,DC=axeplane,DC=loc",Grp_Marketing,20,true,P@$$w0rd
+Christophe,Schmidt,Assistant marketing,c.shmidt@axeplane.loc,"OU=Marketing,OU=Services,DC=axeplane,DC=loc",Grp_Marketing,21,true,P@$$w0rd
+Sarah,Ezzat,Stagiaire service marketing,s.ezzat@axeplane.loc,"OU=Stagiaire,OU=Services,DC=axeplane,DC=loc",Grp_Marketing,22,true,P@$$w0rd
