@@ -13,12 +13,12 @@
 Import-Module ActiveDirectory
 # Formulaire Windows
 [System.Reflection.Assembly]::LoadWithPartialName("System.windows.forms") | Out-Null
-# Create and show open file dialog
+# Créer et afficher la boîte de dialogue d'ouverture de fichier
 $dialog = New-Object System.Windows.Forms.OpenFileDialog
 $dialog.InitialDirectory = $StartDir
 $dialog.Filter = "CSV (*.csv)| *.csv" 
 $dialog.ShowDialog() | Out-Null
-#  path
+# Chemin "Path"
 $CSVFile = $dialog.FileName
 # Import variables
 if ([System.IO.File]::Exists($CSVFile)) {
